@@ -5,6 +5,11 @@
   "repository": "https://github.com/kabawat/photo-ai-auth.git",
   "author": "w3App <kshatriyakabawat@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "build": "echo successfull"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
