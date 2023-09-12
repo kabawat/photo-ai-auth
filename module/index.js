@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 // mongoose.set('strictQuery', true);
-const DB_URL  = 'mongodb://127.0.0.1:27017/photo-booth-ai'
+const DB_URL = 'mongodb+srv://QueryBoat:ty9we3ys86@queryboat.04hkymt.mongodb.net/photo-booth-ai'
 mongoose.connect(DB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
