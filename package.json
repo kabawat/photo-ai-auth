@@ -1,0 +1,14 @@
+{
+  "name": "photo-ai-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kabawat/photo-ai-auth.git",
+  "author": "w3App <kshatriyakabawat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.1"
+  }
+}
